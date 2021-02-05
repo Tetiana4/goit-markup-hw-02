@@ -1,0 +1,25 @@
+:root {
+  --white-text: rgba(255, 255, 255, 1);
+  --white-text-op60: rgba(255, 255, 255, 0, 6);
+
+  --grey-text: rgba(117, 117, 117, 1);
+
+  --blue: rgba(33, 150, 243, 1);
+
+  --black: rgb(33, 33, 33);
+  --black-dark: rgba(0, 0, 0, 1);
+
+  --back: rgba(245, 244, 250, 1);
+  --back-dark: rgba(47, 48, 58, 1);
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+.logo {
+  font-family: Raleway, sans-serif;
+}
+
+.hero-btn {
+  background-color: ;
+}
